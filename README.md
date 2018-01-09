@@ -1,5 +1,5 @@
 # A patch to python requests 
-Thanks to [passos's](https://github.com/passos) reply at [https://github.com/requests/requests/issues/1604](https://github.com/requests/requests/issues/1604) 
+Thanks to passos's [reply](https://github.com/passos) at [https://github.com/requests/requests/issues/1604](https://github.com/requests/requests/issues/1604) 
 ## Quick start
 Test in python2.7, not sure if it works well in other version.
 
